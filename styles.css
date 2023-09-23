@@ -176,7 +176,6 @@ label::after{
 }
 input[type="radio"]{
     display: none;
-
 }
 
 .accordion .content{
